@@ -1,0 +1,1 @@
+location.host = location.host.replaceAll(".", "-") + ".libproxy.mit.edu";
