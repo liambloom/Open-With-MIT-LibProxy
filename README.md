@@ -1,8 +1,8 @@
 # Open With MIT Library Proxy
 
-A super simple extension (more json than js) that opens the current page page using the MIT 
-library proxy. This means that if you have a study open that isn't publicly available, but
-is available through the 
+A super simple chrome/chromium extension (more json than js) that opens the current page 
+page using the MIT library proxy. This means that if you have a study open that isn't 
+publicly available, but is available through the 
 [MIT library collections](https://mit.primo.exlibrisgroup.com/discovery/search?vid=01MIT_INST:MIT&lang=en)
 (and you have access to the MIT library collections) you are just one click away from having
 full access to it.
